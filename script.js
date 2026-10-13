@@ -1,6 +1,6 @@
 // Cole aqui a URL direta do asset MacroDeTeclas.exe na GitHub Release publicada.
 // Exemplo de onde obter: página da Release > Assets > botão direito no .exe > copiar link.
-const RELEASE_ASSET_URL = "";
+const RELEASE_ASSET_URL = "https://github.com/lazyswit/macro-de-teclas-site/releases/download/v1.0.0/MacroDeTeclas.exe";
 
 const downloadButtons = [
   { button: document.getElementById("download-button"), status: document.getElementById("download-status") },
